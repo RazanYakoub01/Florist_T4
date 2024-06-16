@@ -1,5 +1,5 @@
 # florist-website
-## [Website](http://www.itgwebb.se/klass/webb2/christoffer/florist-celeber/)
+## [Website](https://razanyakoub01.github.io/Florist_T4/)
 
 ## Definition of Done
 
@@ -38,7 +38,7 @@
 - Explanatory commit message
 
 ### Development Page
-- [Page](http://www.itgwebb.se/klass/webb2/christoffer/dev/florist-celeber)
+- [Page](https://razanyakoub01.github.io/Florist_T4/)
 #### How to use DevPage
 - Code to DevPage
 - Pull code from DevPage to local
